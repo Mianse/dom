@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 20px;
+    list-style: none;
+    
+}
+
+.box{
+    border: 2px solid black;
+    height: 800px;
+   
+}
+.title{
+    width:100% ;
+    background: lightseagreen;
+    color: azure;
+    height: 70px;
+    
+}
+.heroes{
+    padding-left: 670px;
+    padding-top: 20px ;
+    font-size: 32px;
+   
+}
+.content{
+   
+    margin-top: 20px;
+}
+.topic{
+    height: 50px;
+    font-size: 30px;
+    padding-left: 70px;
+}
+form{
+    margin-top: 20px;
+}
+.list-hero{
+margin-top: 20px;
+padding: 30px;
+border: 1px solid black;
+margin-right:500px ;
+}
+.list-item-hero{
+    padding: 10px;
+    border-bottom: 1px solid black;
+    width: 100%;
+  
+}
+.button{
+    width: 300px;
+    color: white;
+    height: 30px;
+    background: blue;
+    border: none;
+}
+
